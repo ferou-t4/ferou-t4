@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on a special project ...
-🌱 I’m currently learning everything about how to complete it...
-⚡ Fun fact: I decided that swapping out win11 for arch was a terrific idea
+- 🔭 I’m currently working on a special project
+- 🌱 I’m currently learning everything about how to complete it...
+- ⚡ Fun fact: I decided that swapping out win11 for arch was a terrific idea
 
